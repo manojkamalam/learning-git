@@ -1,1 +1,5 @@
-console.log("welcome to git..!");
+
+
+fun learngitfromscratch(){
+console.log("Start Learning Git from Scratch");
+}
